@@ -42,9 +42,8 @@ The coral and gold are not carnival colors — they're gel over spotlights. The 
 [Nav — brand + "Book a call" CTA]
 [Hero — story left, stats panel right]
 [Section 01 — Selectboard: Governing through a crisis]
-[Section 02 — 161st Catamounts: Adventure, skills, community]
-[Section 03 — Community work: Whatdothlife, Windsor Live]
-[Section 04 — What I offer to communities]
+[Section 02 — Catamounts & Community work: Adventure, skills, and the scene]
+[Section 03 — What I offer to communities]
 [Booking panel]
 [Footer — standard layout, "web ring" pattern optional for this page]
 ```
@@ -61,7 +60,6 @@ A human-scale stats panel, not the framed terminal panel from tech/biz. Somethin
 - 2.5 years on Windsor Selectboard (COVID onset through the worst)
 - Founder, 161st Catamounts (Outdoor Service Guides)
 - Co-founder, Whatdothlife (501(c)(3) arts collective)
-- Co-founder, Windsor Live (community venue since 2017)
 
 ### Section 01 — Selectboard
 
@@ -77,29 +75,23 @@ A human-scale stats panel, not the framed terminal panel from tech/biz. Somethin
 
 **Tone:** Direct, proud but not boastful. The pride flag and playgrounds should carry as much weight as the infrastructure investments. This section should make a fellow selectboard member nod and say "yes, that's what it's like."
 
-### Section 02 — 161st Catamounts
+### Section 02 — Catamounts & Community work
 
-**Section header:** "Community scouting" / "The 161st Catamounts"
+**Section header:** "Community" / "Adventure, skills, and the scene"
 
-**Lead with the adventure and the skills, not the defensive framing:**
-- "A community project based on getting together, getting really good at skills, and going on adventures."
-- Founder and Scoutmaster (Chief Tiguidou), chartered under Outdoor Service Guides
+**Catamounts first:**
+
+- **161st Catamounts** — Founder and Scoutmaster (Chief Tiguidou), chartered under Outdoor Service Guides. "A community project based on getting together, getting really good at skills, and going on adventures."
 - All-adult, community defense-oriented, democratic governance
 - Core training: de-escalation and crisis communication, Wilderness First Responder, emergency preparedness, HAM radio, backcountry navigation, community safety
 - Motto: "Find your path, change the world!"
 - "Framing is important, intent matters. We are passionately driven by principles and values that lead us to community defense and resilience as a practice — that is downstream of principles and values."
 
-**"Not a militia" placement:** Bottom of the section, as an explicit note. Not the lead. Not the hero. Something like: "A note on framing: the 161st Catamounts are explicitly not a militia. We operate with democratic governance, mandatory background checks, JEDI principles, community accountability, and a de-escalation-first philosophy. The distinction matters and the distinguishing factors are obvious to anyone who engages with us."
+**Then Whatdothlife:**
 
-### Section 03 — Community work
+- **Whatdothlife** — Founding member of this Vermont music and arts collective, navigated it through 501(c)(3) status. Governance, compliance, community programming built from scratch. The scene, the culture, the events, the shows.
 
-**Section header:** "More ways I serve" / "Community building across Windsor"
-
-**Two items:**
-1. **Whatdothlife** — Founding member of this Vermont music and arts collective, navigated it through 501(c)(3) status. Governance, compliance, community programming built from scratch.
-2. **Windsor Live** — Community venue, event space, and cultural hub in downtown Windsor since 2017. Live music, art shows, community gatherings.
-
-### Section 04 — What I offer
+### Section 03 — What I offer
 
 **Section header:** "What I offer to communities"
 
@@ -111,7 +103,6 @@ Three service cards (coral underline on hover):
 ## FAQ
 
 A small FAQ section after the service cards (or in place of them if they feel too commercial). Topics:
-- "The Catamounts sound like a militia." — The honest answer above
 - "How long does it take to get something done in local government?" — Christopher's answer from experience
 - "I'm part of a small nonprofit with no budget for tech. Can you still help?" — Yes, scaled scopes exist
 
