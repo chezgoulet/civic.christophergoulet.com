@@ -276,7 +276,7 @@ footer .frow{display:flex;justify-content:space-between;flex-wrap:wrap;gap:20px;
         <h2>A family cookie bakery, converted to <em>worker ownership</em>.</h2>
       </div>
       <div class="body-text reveal">
-        <p>I founded the <strong><a href="https://coveredbridgecookies.com" target="_blank" rel="noopener" style="border-bottom:1px solid var(--gold);transition:border-color .25s">Covered Bridge Cooperative Corporation</a></strong>, the worker-owned co-op that makes Covered Bridge Cookies. A thirty-year-old family bakery in Windsor, Vermont — four generations of recipes, real ingredients, nothing you can't pronounce — now 100% owned by the people who do the work.</p>
+        <p>I founded the <strong><a href="https://coveredbridgecookies.com" target="_blank" rel="noopener" style="border-bottom:1px solid var(--gold);transition:border-color .25s">Covered Bridge Cooperative Corporation</a></strong>, the worker-owned co-op that makes Covered Bridge Cookies. A thirty-year-old family bakery in Windsor, Vermont — his father's recipes, real ingredients, nothing you can't pronounce — now 100% owned by the people who do the work.</p>
         <p>Four owners, living wage, good conditions. The legacy stays with the people who keep it running. It's hard. Real collaboration — sharing power genuinely — is hard every day. Worth it. But not a switch you flip once. You choose it, actively, every morning.</p>
       </div>
     </div>
@@ -290,7 +290,7 @@ footer .frow{display:flex;justify-content:space-between;flex-wrap:wrap;gap:20px;
       </div>
       <div class="body-text reveal">
         <p>I was sworn in about <strong>two weeks before the lockdowns started</strong>. There's no manual for that. You learn fast how power, markets, and people interact when the ground's moving under everyone at once.</p>
-        <p class="pull">"I spoke truth to power and moved the needle."</p>
+        <p class="pull">"Speak truth to power and move the needle."</p>
         <p>We held the town together and made real decisions that stuck. Some of what we did in the middle of the hardest stretch:</p>
         <div class="wins">
           <span class="win">Pride flag raised</span>
@@ -353,7 +353,7 @@ footer .frow{display:flex;justify-content:space-between;flex-wrap:wrap;gap:20px;
         <h2>Working on something for your community?</h2>
         <p>Let's talk. The first call is free, and I'm glad to think it through with you.</p>
         <div class="btn-row">
-          <a class="btn btn-primary" href="https://cal.com/christophergoulet" target="_blank" rel="noopener">Book a call <svg width="16" height="16" viewBox="0 0 24 24"><use href="#i-arrow"/></svg></a>
+          <a class="btn btn-primary" href="https://book.christophergoulet.com" target="_blank" rel="noopener">Book a call <svg width="16" height="16" viewBox="0 0 24 24"><use href="#i-arrow"/></svg></a>
           <a class="btn btn-ghost" href="mailto:me@christophergoulet.com"><svg width="16" height="16" viewBox="0 0 24 24"><use href="#i-mail"/></svg> me@christophergoulet.com</a>
         </div>
       </div>
@@ -369,7 +369,7 @@ footer .frow{display:flex;justify-content:space-between;flex-wrap:wrap;gap:20px;
       <a href="https://tech.christophergoulet.com">tech</a>
       <a href="https://canada.christophergoulet.com">canada</a>
     </div>
-    <div class="foot-meta">Windsor, Vermont · <span id="clock">--:--:-- UTC</span> · © 2026</div>
+    <div class="foot-meta">Windsor, Vermont · © 2026</div>
   </div>
 </footer>
 
@@ -377,10 +377,7 @@ footer .frow{display:flex;justify-content:space-between;flex-wrap:wrap;gap:20px;
 (function(){
   var t=document.getElementById('navToggle'),l=document.getElementById('navLinks');
   if(t)t.addEventListener('click',function(){l.classList.toggle('open')});
-  function p(n){return String(n).padStart(2,'0')}
-  function tick(){var d=new Date();var el=document.getElementById('clock');
-    if(el)el.textContent=p(d.getUTCHours())+':'+p(d.getUTCMinutes())+':'+p(d.getUTCSeconds())+' UTC';}
-  tick();setInterval(tick,1000);
+
   var els=document.querySelectorAll('.reveal');
   if(window.matchMedia('(prefers-reduced-motion: reduce)').matches){els.forEach(function(e){e.classList.add('in')});return;}
   var io=new IntersectionObserver(function(es){es.forEach(function(en){if(en.isIntersecting){en.target.classList.add('in');io.unobserve(en.target)}})},{threshold:.08,rootMargin:'0px 0px -8% 0px'});
